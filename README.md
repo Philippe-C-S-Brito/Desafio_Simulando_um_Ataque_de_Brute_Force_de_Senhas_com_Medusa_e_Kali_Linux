@@ -65,11 +65,11 @@ O diferencial deste projeto. O script não apenas informa que a senha foi descob
 As imagens abaixo comprovam o funcionamento fluido do framework desenvolvido.
 
 **1. Mapeamento, Enumeração e Exploração (Nmap, Crunch e Medusa)**
-![Reconhecimento e Ataque](./images/reconhecimento_ataque.jpg)
+![Reconhecimento e Ataque](./imagens/reconhecimento_ataque.jpg)
 *Nesta captura, é possível observar o Nmap identificando as portas abertas, a lista de usuários sendo otimizada e o Medusa efetuando os acertos precisos (`[SUCESSO]`) nos módulos FTP, SSH, Web e SMB.*
 
 **2. Validação e Pós-Exploração Automática (O Impacto)**
-![Validação de Acesso](./images/validação_ataque.jpg)
+![Validação de Acesso](./imagens/validação_ataque.jpg)
 *A comprovação do comprometimento total. O script injetou comandos remotamente via SSH, exibindo os detalhes do usuário logado (`msfadmin`), diretório (`pwd`), permissões de arquivos (`ls -la`) e dados sensíveis (`/etc/passwd`). Além disso, listou os diretórios FTP, os compartilhamentos SMB e interceptou o redirecionamento HTTP (302) do DVWA.*
 
 ---
