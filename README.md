@@ -1,7 +1,7 @@
 # 🛡️ Simulando um Ataque de Brute Force de Senhas com Medusa e Kali Linux
 
 [![Autor](https://img.shields.io/badge/Autor-Philippe%20Correia-blue.svg)](https://github.com/Philippe-C-S-Brito)
-[![Certificação](https://img.shields.io/badge/Bootcamp-Ciberseguran%C3%A7a%20Riachuelo%20%7C%20DIO-success.svg)]([https://web.dio.me/](https://www.dio.me/bootcamp/riachuelo-ciberseguranca?ref=BFC378DAFFDF42D1BD5FB20AFB6BED70)
+[![Certificação](https://img.shields.io/badge/Bootcamp-Ciberseguran%C3%A7a%20Riachuelo%20%7C%20DIO-success.svg)](https://www.dio.me/bootcamp/riachuelo-ciberseguranca?ref=BFC378DAFFDF42D1BD5FB20AFB6BED70)
 [![Bash Script](https://img.shields.io/badge/Linguagem-Bash%20Script-terminal.svg)](#)
 
 ## 📌 Visão Geral do Projeto
